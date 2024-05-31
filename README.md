@@ -4,7 +4,7 @@
 </p>
 
 
-<br>
+
 
 
 	
@@ -12,7 +12,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+
 Soy un ingeniero en mecatrónica y desarrollador FullStack apasionado por la innovación y el desarrollo de soluciones integrales. Con una sólida formación en ingeniería y programación. Mi capacitación me permite abordar proyectos que requieran conocimientos interdisciplinarios y la capacidad de trabajar en todas las etapas del ciclo de desarrollo de software
 <br>
 
