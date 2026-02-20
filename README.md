@@ -1,111 +1,118 @@
-<h1 align="center">Hola , Soy Angel Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi 👋, I'm Angel Eduardo Rodríguez
+</h1>
+
+<h3 align="center">
+  💻 Full Stack Developer | ☁️ AWS Cloud Engineer | 🔐 DevSecOps Enthusiast
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Fullstack+Developer;Always+learning+new+things"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+%7C+Node.js+%7C+Microservices;Angular+%7C+React+%7C+TypeScript;AWS+%7C+Docker+%7C+CI%2FCD;Clean+Architecture+%7C+SOLID+%7C+DevSecOps" />
 </p>
 
+---
 
+## 👨‍💻 About Me
 
+🔹 Full Stack Developer with experience in financial sector projects  
+🔹 Backend specialist in **Java (Spring Boot)** & **Node.js (TypeScript / NestJS)**  
+🔹 Frontend development with **Angular, React & Vue**  
+🔹 Cloud-native applications deployed in **AWS (ECS, EKS, Lambda, RDS, DynamoDB)**  
+🔹 Strong knowledge in **Microservices Architecture, Clean Architecture & SOLID principles**  
+🔹 Currently pursuing a **Specialization in Cybersecurity**  
 
+💡 Passionate about scalable systems, secure development and enterprise architectures.
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🌐 Connect with Me
 
-
-Soy un ingeniero en mecatrónica y desarrollador FullStack apasionado por la innovación y el desarrollo de soluciones integrales. Con una sólida formación en ingeniería y programación. Mi capacitación me permite abordar proyectos que requieran conocimientos interdisciplinarios y la capacidad de trabajar en todas las etapas del ciclo de desarrollo de software
-<br>
-
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:angel.pro98@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/zanemasters"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+573183704678"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/angel-eduardo-rodriguez-arguello/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Backend Development
-
-<p align="center"> 
-  &emsp; 
-  <a> 
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-%236DB33F.svg?style=plastic&amp;logo=spring&amp;logoColor=white">
-  </a> 
-  &emsp;
-  <a > 
-    <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=plastic&amp;logo=express&amp;logoColor=%2361DAFB">
-  </a> 
-  &emsp;
-  <a > 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a > 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  <a href="mailto:angel.pro98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/angel-eduardo-rodriguez-arguello/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ZaneMasters">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a>
-    <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=plastic&amp;logo=react&amp;logoColor=%2361DAFB">
-  </a>
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&amp;logo=typescript&amp;logoColor=white">
-  </a>
-  &emsp;
-  <a> 
-     <img alt="Vue" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=plastic&amp;logo=vuedotjs&amp;logoColor=%234FC08D">
-  </a>
-</p>
+---
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
+# 🛠 Tech Stack
+
+## 🔙 Backend
+
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&amp;logo=mysql&amp;logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&amp;logo=mongodb&amp;logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,python" />
 </p>
 
+## 🎨 Frontend
 
-<!--
-**ZaneMasters/ZaneMasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
 
-Here are some ideas to get you started:
+## 🗄 Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git" />
+</p>
+
+---
+
+# 🏗 Architecture & Security
+
+✔ Microservices Architecture  
+✔ RESTful API Design  
+✔ Event-Driven Systems (SNS / SQS)  
+✔ OAuth 2.0 & JWT Authentication  
+✔ CI/CD Pipelines  
+✔ Clean Architecture & SOLID  
+✔ DevSecOps Practices  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaneMasters&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneMasters&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZaneMasters&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZaneMasters/ZaneMasters/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🔐 Secure software development  
+- ☁️ Advanced AWS architectures  
+- 🏦 Enterprise banking solutions  
+- 🧠 Continuous learning  
+
+---
+
+⭐ Always building scalable and secure systems.
