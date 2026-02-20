@@ -81,15 +81,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaneMasters&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaneMasters&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -98,13 +89,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZaneMasters/ZaneMasters/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🚀 Current Focus
 
